@@ -1,1 +1,3 @@
 recursos/
+*.log
+.gitignore
