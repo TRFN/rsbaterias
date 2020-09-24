@@ -9,14 +9,14 @@
     "paginas": {
         "default": {
             "caminho": ["/"],
-            "layout": "It's Working!",
+            "layout": "index",
             "modelo": false,
             "scripts": [],
-            "styles": [],
-            "controle": false,
-            "type": "text/plain",
+            "styles": ["responsive","style"],
+            "controle": "main",
+            "type": "text/html",
             "persistente": true,
-            "minify": false,
+            "minify": true,
             "variaveis": {}
         }
     }
