@@ -330,3 +330,5 @@
 127.0.0.1 - - [09/Sep/2020:07:12:43 -0300] "GET /recursos/(268)/images/line-2.png HTTP/1.1" 200 3453 "http://rsbaterias/recursos/(268)/css/style.css" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
 127.0.0.1 - - [09/Sep/2020:07:13:29 -0300] "GET /recursos/(268)/contact.html HTTP/1.1" 200 3048 "http://rsbaterias/recursos/(268)/products.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
 127.0.0.1 - - [09/Sep/2020:07:14:02 -0300] "GET /recursos/(268)/index.html HTTP/1.1" 200 2511 "http://rsbaterias/recursos/(268)/contact.html" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36"
+127.0.0.1 - - [24/Sep/2020:04:01:59 -0300] "GET / HTTP/1.1" 200 217 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+127.0.0.1 - - [24/Sep/2020:04:02:00 -0300] "GET /favicon.ico HTTP/1.1" 200 216 "http://rsbaterias/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
